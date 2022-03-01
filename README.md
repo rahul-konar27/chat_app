@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Chat App Gif](https://github.com/rahul-konar27/chat_app/blob/master/chat%20app%20src.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
