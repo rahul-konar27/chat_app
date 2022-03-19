@@ -4,6 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Chat App Gif](https://github.com/rahul-konar27/chat_app/blob/master/chat%20app%20src.gif)
 
+## Description
+This web app is used for project team chat management system where the team admin can add the crew members and have a connectivity together to build progressive projects. The app uses frontend tech using react.js and backend is managed by the chatengine.io which ensures all the API's and Web Sockets.
+  ### Features 
+    > Login
+    > Registration
+    > Online/Offline Status view
+    > Last seen visibility
+    > Read Receipts
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
